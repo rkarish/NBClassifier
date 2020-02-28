@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class dmproject {
+public class DMProject {
 
 	static HashMap<String, Double> spam = new HashMap<>();
 	static HashMap<String, Double> notSpam = new HashMap<>();
